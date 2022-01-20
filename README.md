@@ -6,21 +6,21 @@ Most of my work is directed towards scientific endeavors, but I have also dabble
 
 ---
 
-## My education
+## My education and experience
 
-- [x] Bachelor in physics and chemistry
-- [x] Master in astrophysics
-- [x] Master in scientific, technological and industrial watch
+I hold a bachelor degree in physics and chemstry, a master degree in fundamental physics with a specialization in astrophysics, and obtained a master degree in business intelligence over the Covid pandemic.
 
-Currently looking for a PhD in astrophysics.
+I have had experience working in research laboratories working as both a data analyst and modeler, as well as conducting theoretical work.
+
+I created and am currently maintaining one of the most complete scientific crate for the Rust language (![Scilib](https://github.com/At0micBee/scilib)), and I am involved in the improvement of many different scientific numerical models.
 
 ---
 
 ## My main languages
 
-![](https://img.shields.io/badge/Rust-Great-informational?style=flat-square&logo=Rust&logoColor=white&color=006643) ![](https://img.shields.io/badge/Python-Great-informational?style=flat-square&logo=Python&logoColor=white&color=006643) ![](https://img.shields.io/badge/Fortran-Good-informational?style=flat-square&logo=Fortran&logoColor=white&color=428813) ![](https://img.shields.io/badge/C++-Decent-informational?style=flat-square&logo=C&logoColor=white&color=F46D01) ![](https://img.shields.io/badge/C-Decent-informational?style=flat-square&logo=C&logoColor=white&color=F46D01)
+![](https://img.shields.io/badge/Rust-Great-informational?style=flat-square&logo=Rust&logoColor=white&color=006643) ![](https://img.shields.io/badge/Python-Great-informational?style=flat-square&logo=Python&logoColor=white&color=006643) ![](https://img.shields.io/badge/Fortran-Good-informational?style=flat-square&logo=Fortran&logoColor=white&color=428813) ![](https://img.shields.io/badge/C++-Decent-informational?style=flat-square&logo=C&logoColor=white&color=2e8b57) ![](https://img.shields.io/badge/C-Decent-informational?style=flat-square&logo=C&logoColor=white&color=2e8b57)
 
-
+I am mostly proficient in Rust and Python, a lot of experiences with Fortran, and knows the basis of C and C++.
 
 <!--
 **At0micBee/At0micBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
