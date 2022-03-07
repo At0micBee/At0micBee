@@ -8,9 +8,11 @@ Most of my work is directed towards scientific endeavors, but I have also dabble
 
 ## My education and experience
 
-I hold a bachelor degree in physics and chemstry, a master degree in fundamental physics with a specialization in astrophysics, and obtained a master degree in business intelligence over the Covid pandemic.
+I am a PhD candidate at the Laboratory of Astrophysics of Marseille (LAM), working on a machine learning pipeline for the ESA Plato mission.
 
-I have had experience working in research laboratories working as both a data analyst and modeler, as well as conducting theoretical work.
+I hold a bachelor degree in physics and chemstry, a master degree in fundamental physics with a specialization in astrophysics, and obtained a master degree in business intelligence during the Covid pandemic.
+
+I have had experience working in research laboratories working as both a data analyst and modeler, as well as conducting theoretical and experimental work.
 
 I created and am currently maintaining one of the most complete scientific crate for the Rust language (![Scilib](https://github.com/At0micBee/scilib)), and I am involved in the improvement of many different scientific numerical models.
 
