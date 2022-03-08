@@ -10,7 +10,7 @@ Most of my work is directed towards scientific endeavors, but I have also dabble
 
 I am a PhD candidate at the Laboratory of Astrophysics of Marseille (LAM), working on a machine learning pipeline for the ESA Plato mission.
 
-I hold a bachelor degree in physics and chemstry, a master degree in fundamental physics with a specialization in astrophysics, and obtained a master degree in business intelligence during the Covid pandemic.
+I hold a bachelor degree in physics and chemistry, a master degree in fundamental physics with a specialization in astrophysics, and obtained a master degree in business intelligence during the Covid pandemic.
 
 I have had experience working in research laboratories working as both a data analyst and modeler, as well as conducting theoretical and experimental work.
 
