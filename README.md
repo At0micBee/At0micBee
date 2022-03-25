@@ -14,7 +14,7 @@ I hold a bachelor degree in physics and chemistry, a master degree in fundamenta
 
 I have had experiences working in research laboratories as both a modeler and a data analyst, as well as conducting theoretical and experimental work.
 
-I created and am currently maintaining one of the most complete scientific crate for the Rust language (![Scilib](https://github.com/At0micBee/scilib), check it out!), and I am involved in the improvement of many different scientific numerical models.
+I created and am currently maintaining one of the most complete scientific crate for the Rust language (![Scilib](https://crates.io/crates/scilib), check it out!), and I am involved in the improvement of many different scientific numerical models.
 
 ---
 
