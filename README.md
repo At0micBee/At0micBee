@@ -1,22 +1,22 @@
 # Personal information
 
-My name is H.G. Vivien, and I am a (mostly) self taught scientific programmer.
+[![](https://img.shields.io/badge/ORCID-0000--0001--7239--6700-informational?style=flat-square&logo=orcid&logoColor=A6CE39&color=86AE19)](https://orcid.org/0000-0001-7239-6700)
 
-Most of my work is directed towards scientific endeavors, but I have also dabbled in a few other projects. My specialty is building models and simulation tools, as well as data analysis.
+I am H.G. Vivien, a Ph.D student at the Laboratory of Astrophysics of Marseille (LAM).
 
----
+I work on exoplanets detection and characterization, mostly on ESA's CHEOPS mission, and in preparation of the PLATO spacecraft.
+
+I am a (mostly) self taught scientific programmer, and my thesis work is the creation and a deep learning method to detect exoplanet transits in unfiltered photometry data.
+
+Most of my work is directed towards scientific endeavors, but I have also dabbled in a few other projects. My specialties are building models, simulation tools, as well as data analysis.
 
 ## My education and experience
 
-I am a PhD candidate at the Laboratory of Astrophysics of Marseille (LAM), working on a machine learning pipeline for the ESA Plato mission.
+I have a bachelor degree in physics and chemistry, a master degree in fundamental physics with a specialization in astrophysics, and also a master degree in business intelligence.
 
-I hold a bachelor degree in physics and chemistry, a master degree in fundamental physics with a specialization in astrophysics, and obtained a master degree in business intelligence during the Covid pandemic.
+I have had experiences working in research laboratories as both a modeler, a data analyst, as even an experimentalist in the preparation of Earth's atmosphere observation missions.
 
-I have had experiences working in research laboratories as both a modeler and a data analyst, as well as conducting theoretical and experimental work.
-
-I created and am currently maintaining one of the most complete scientific crate for the Rust language ([Scilib](https://crates.io/crates/scilib), check it out!), and I am involved in the improvement of many different scientific numerical models.
-
----
+I created and am currently maintaining one of the most complete scientific crate for the Rust language ([Scilib](https://crates.io/crates/scilib)), and I am involved in the improvement of many different scientific numerical models.
 
 ## My main languages
 
