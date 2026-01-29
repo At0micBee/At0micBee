@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/ORCID-0000--0001--7239--6700-informational?style=flat-square&logo=orcid&logoColor=A6CE39&color=86AE19)](https://orcid.org/0000-0001-7239-6700)
 
-I am Dr. H.G. Vivien, a research engineer at the Laboratory of Astrophysics of Marseille (LAM).
+I am Dr. H.G. Vivien, a post-doc at the Laboratory of Astrophysics of Marseille (LAM).
 
 I work on exoplanets detection and characterization, mostly on ESA's CHEOPS mission, and in preparation of the PLATO spacecraft.
 
