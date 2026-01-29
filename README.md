@@ -6,17 +6,17 @@ I am Dr. H.G. Vivien, a research engineer at the Laboratory of Astrophysics of M
 
 I work on exoplanets detection and characterization, mostly on ESA's CHEOPS mission, and in preparation of the PLATO spacecraft.
 
-I am a (mostly) self taught scientific programmer, and my thesis work is the creation and a deep learning method to detect exoplanet transits in unfiltered photometry data.
-
 Most of my work is directed towards scientific endeavors, but I have also dabbled in a few other projects. My specialties are building models, simulation tools, as well as data analysis.
 
 ## My education and experience
 
-I have a bachelor degree in physics and chemistry, a master degree in fundamental physics with a specialization in astrophysics, and also a master degree in business intelligence.
+I have a bachelor's degree in physics and chemistry, a master's degree in fundamental physics with a specialization in astrophysics, and also a master's degree in business intelligence.
 
-I have had experiences working in research laboratories as both a modeler, a data analyst, as even an experimentalist in the preparation of Earth's atmosphere observation missions.
+My Ph.D thesis was focused on the creation of a deep learning method to detect exoplanet transits in unfiltered photometry data.
 
-I created and am currently maintaining one of the most complete scientific crate for the Rust language ([Scilib](https://crates.io/crates/scilib)), and I am involved in the improvement of many different scientific numerical models.
+I have had experiences working in research laboratories as a modeler, a data analyst, and even an experimentalist in various astrophysical fields from Earth sciences to exoplanets.
+
+I created, and am currently maintaining, one of the most complete scientific crate for the Rust language ([Scilib](https://crates.io/crates/scilib)), and I am involved in the improvement of many different scientific numerical models.
 
 ## My main languages
 
